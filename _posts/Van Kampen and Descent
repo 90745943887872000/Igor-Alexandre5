@@ -5,8 +5,7 @@ title: "Post 1: Introduction"
 permalink: /post1.html
 order: 1
 ---
-
-Hi! This post is going to introduce myself and what I do.
+I'm going to introduce the idea of Van Kampen and Descent 
 
 {::comment}
 Jekyll also offers powerful support for code snippets:
