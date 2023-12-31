@@ -1,3 +1,3 @@
 layout: page
 title: "Maths"
-permalink: https://90745943887872000.github.io/Igor-Alexandre5/about/
+permalink: https://github.com/90745943887872000/Igor-Alexandre5/blob/main/Maths.md
