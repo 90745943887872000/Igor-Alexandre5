@@ -1,3 +1,3 @@
 layout: page
 title: "Maths"
-permalink: /URL-PATH
+permalink: https://90745943887872000.github.io/about/contact/
